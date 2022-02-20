@@ -1,19 +1,19 @@
 # <a href="https://fiverr.com/shuvoaftab/">Ibrahim Sharif on Fiverr!</a>
 
 ## Keynotes:
-💠 Bachelor Degree in Computer Science and Engineering.
-💠 Web Technology Enthusiast for over 10 years.
-🎯🎯🎯 Skills:
-❏ MySQL, MongoDB, PostgreSQL Database Administration
-❏ NGINX, Apache, LiteSpeed, PHP Server Stack
-❏ DNS-> A, CNAME, MX
-❏ Email-> SPF, DKIM, DMARC, SMTP
-❏ WHM/cPanel, Plesk, LAMP etc.
-❏ WordPress, Laravel Developer
-❏ AWS, Google Cloud, Azure etc. Cloud
-❏ Performance & Security Optimization
-❏ Mautic, Mailwizz, Acelle etc.
-❏ Mailchimp, Active Campaign, Sendgrid etc.
+💠 Bachelor Degree in Computer Science and Engineering.     <br />
+💠 Web Technology Enthusiast for over 10 years.    <br />
+💠 Skills:    <br />
+🎯 MySQL, MongoDB, PostgreSQL Database Administration    <br />
+🎯 NGINX, Apache, LiteSpeed, PHP Server Stack    <br />
+🎯 DNS-> A, CNAME, MX    <br />
+🎯 Email-> SPF, DKIM, DMARC, SMTP    <br />
+🎯 WHM/cPanel, Plesk, LAMP etc.    <br />
+🎯 WordPress, Laravel Developer    <br />
+🎯 AWS, Google Cloud, Azure etc. Cloud    <br />
+🎯 Performance & Security Optimization    <br />
+🎯 Mautic, Mailwizz, Acelle etc.    <br />
+🎯 Mailchimp, Active Campaign, Sendgrid etc.    <br />
 
 ## Service Details Described:
 <hr>
