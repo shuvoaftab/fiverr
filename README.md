@@ -14,9 +14,10 @@
 🎯 Performance & Security Optimization    <br />
 🎯 Mautic, Mailwizz, Acelle etc.    <br />
 🎯 Mailchimp, Active Campaign, Sendgrid etc.    <br />
+<hr>
 
 ## Service Details Described:
-<hr>
+
     <p>
         <a href="https://github.com/shuvoaftab/fiverr/blob/main/services/any-linux-server-issues.md/">🌱 Fix Any Linux Issues</a>
     </p>
