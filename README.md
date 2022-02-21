@@ -1,3 +1,39 @@
+<!--  Todo: Rearrange the portfolio Images-->
+<!---##------------------------------------------  Introduction    ----------------------------------------------##--->
+
+<h1 align="center">Peace be upon you ❤<br/>
+    <img src="https://komarev.com/ghpvc/?username=shuvoaftab&label=Times%20Noticed&color=263238&style=flat" alt="Ibrahim Sharif" />
+</h1>
+<p align="center">
+<img src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/githubx300.jpg" alt="Ibrahim Sharif" />
+</p>
+
+<!---##------------------------------------------  Badge Links    ----------------------------------------------##--->
+<h1 align="center"> 
+<a href="https://www.upwork.com/freelancers/~01fa5280996d3915be/" target="_blank"><img src="https://img.shields.io/badge/-Upwork-14a800?style=for-the-badge&logoColor=white&labelColor=33691e&logo=upwork"/></a>
+<a href="https://www.fiverr.com/shuvoaftab/" target="_blank"><img src="https://img.shields.io/badge/-Fiverr-1dbf73?style=for-the-badge&logoColor=white&labelColor=04914f&logo=fiverr"/></a> 
+<a href="https://www.linkedin.com/in/ibrahimsharif/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIN-0077B5?style=for-the-badge&logoColor=white&labelColor=283593&logo=Linkedin"/></a>
+</h1>
+
+<p align="center"> 
+<a href="https://ibrahimsharif.com" target="_blank"><img src="https://img.shields.io/badge/-ibrahimsharif.com-3423A6?style=flat-square&logoColor=white&labelColor=6200ea&logo=Google-Chrome"/></a>
+<a href="mailto:contact@ibrahimsharif.com" target="_blank"><img src="https://img.shields.io/badge/-contact@ibrahimsharif.com-D14836?style=flat-square&logoColor=white&labelColor=6200ea&logo=Gmail"/></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/-aftab.shuvo-00aff0?style=flat-square&logoColor=white&labelColor=6200ea&logo=skype"/></a>
+</p>
+
+<p align="center">
+<a href="https://www.facebook.com/ibrahimsharifdevelops/"><img src="https://img.shields.io/badge/-Developer-3b5998?style=flat&logoColor=white&labelColor=311b92&logo=Facebook"/></a>
+<a href="https://www.facebook.com/ibrahimsharifofficial/"><img src="https://img.shields.io/badge/-Travel%20Photographer-3b5998?style=flat&logoColor=white&labelColor=311b92&logo=Facebook"/></a>
+<a href="https://www.instagram.com/ibrahim.ibn.alamgir"><img src="https://img.shields.io/badge/-ibrahim.ibn.alamgir-e1306c?style=flat&logoColor=white&labelColor=311b92&logo=Instagram"/></a>
+<a href="https://www.twitter.com/shuvoaftab"><img src="https://img.shields.io/badge/-Tweet%20me-1da1f2?style=flat&logoColor=white&labelColor=311b92&logo=twitter"/></a>
+<a href="https://www.youtube.com/user/MrIbrahimsharif/"><img src="https://img.shields.io/badge/-My%20Videos-ff0000?style=flat&logoColor=white&labelColor=311b92&logo=youtube"/></a>
+<!--a href="https://forum.xda-developers.com/m/shuvoaftab.7111152/"><img src="https://img.shields.io/badge/-XDA-EA7100?style=flat&logoColor=white&labelColor=311b92&logo=XDA+Developers"/></a>
+<a href="#"><img src="https://img.shields.io/badge/-Ibrahim-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/-Ibrahim-1769FF?style=flat&logo=Behance&logoColor=white"/></a-->
+</p>
+
+<hr>
+
 # <a href="https://fiverr.com/shuvoaftab/">Ibrahim Sharif on Fiverr!</a>
 
 ## Keynotes:
