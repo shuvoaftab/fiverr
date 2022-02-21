@@ -1,6 +1,6 @@
    
 <!---##------------------------------------------  Focused Skills    ----------------------------------------------##--->
-## Focused Skills
+## Area of Expertise
 ![Server Administration](https://img.shields.io/badge/-Server%20Administration-0a00b6?style=flat-square&logoColor=white&labelColor=00363a&logo=Angular+Universal)
 ![Networking](https://img.shields.io/badge/-Networking-dd2c00?style=flat-square&logoColor=white&labelColor=00363a&logo=fastlane)
 ![Support & IT](https://img.shields.io/badge/-Support%20and%20IT-0a00b6?style=flat-square&logoColor=white&labelColor=00363a&logo=Hackaday)
@@ -28,7 +28,7 @@
 <!--  Todo: Rearrange the portfolio Images-->
 <!---##------------------------------------------  Introduction    ----------------------------------------------##--->
 
-<h1 align="center">Peace be upon you ❤<br/>
+<h1 align="center">
     <img src="https://komarev.com/ghpvc/?username=shuvoaftab&label=Times%20Noticed&color=263238&style=flat" alt="Ibrahim Sharif" />
 </h1>
 <p align="center">
