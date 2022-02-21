@@ -53,57 +53,34 @@
 <hr>
 
 ## Details of Services providing on Fiverr:
-<br/>
-    <p>
-        <a href="https://github.com/shuvoaftab/fiverr/blob/main/services/any-linux-server-issues.md/">🌱 Fix Any Linux Issues</a>
-    </p>
-    <p>
-        <a href="https://github.com/shuvoaftab/fiverr/blob/main/services/NGINX-Apache-PHP-MySQL-MongoDB-JS-Python-Server-Issues.md/">🌱 NGINX, Apache, PHP, MySQL, MongoDB, NodeJS, ReactJS, Python Server Issues</a>
-    </p>
-    <p>
-        <a href="https://github.com/shuvoaftab/fiverr/blob/main/services/cpanel-plesk-cwp-vestacp-LAMP-any-control-panel-issues.md/">🐞 cPanel, WHM, CWP, VestaCP, LAMP stack or any control panel issues</a>
-    </p>
-    <p>
-        <a href="https://github.com/shuvoaftab/fiverr/blob/main/services/ecommerce-data-migration.md/">🌱 Ecommerce Data Migration Service
-        </a>
-    </p>
-    <p>
-        <a href="https://github.com/shuvoaftab/fiverr/blob/main/services/transfer-and-migration-of-websites-to-and-from-servers-and-domains.md/">🌱 Transfer and Migration Service of Websites to and from Servers and Domains
-        </a>
-    </p>
-    <p>
-        <a href="https://github.com/shuvoaftab/fiverr/blob/main/services/wordpress-responsive-website-creation-and-customization.md/">🐞 WordPress Troubleshooting and problems and issue fixing service
-        </a>
-    </p>
-    <p>
-        <a href="https://github.com/shuvoaftab/fiverr/blob/main/services/wordpress-performance-and-security-optimization.md/">🐞 WordPress Performance and Security Optimization Service
-        </a>
-    </p>
-    <p>
-        <a href="https://github.com/shuvoaftab/fiverr/blob/main/services/wordpress-responsive-website-creation-and-customization.md/">🌱 WordPress Responsive Website Creation and Customization Service
-        </a>
-    </p>
-<hr>
-
-## Services >>
 <table>
   <thead align="center">
     <tr border: none;>
+      <td><b></b></td>
       <td><b>Services</b></td>
     </tr>
   </thead>
   <tbody>
-    <tr> <td><a href="https://github.com/shuvoaftab/fiverr/blob/main/services/any-linux-server-issues.md/">🌱 Fix Any Linux Issues</a></td> </tr>
-    <tr> <td><a href="https://github.com/shuvoaftab/fiverr/blob/main/services/NGINX-Apache-PHP-MySQL-MongoDB-JS-Python-Server-Issues.md/">🌱 NGINX, Apache, PHP, MySQL, MongoDB, NodeJS, ReactJS, Python Server Issues</a></td> </tr>
-    <tr> <td><a href="https://github.com/shuvoaftab/fiverr/blob/main/services/cpanel-plesk-cwp-vestacp-LAMP-any-control-panel-issues.md/">🐞 cPanel, WHM, CWP, VestaCP, LAMP stack or any control panel issues</a></td> </tr>
-    <tr> <td><a href="https://github.com/shuvoaftab/fiverr/blob/main/services/ecommerce-data-migration.md/">🌱 Ecommerce Data Migration Service </a></td> </tr>
-    <tr> <td><a href="https://github.com/shuvoaftab/fiverr/blob/main/services/transfer-and-migration-of-websites-to-and-from-servers-and-domains.md/">🌱 Transfer and Migration Service of Websites to and from Servers and Domains </a></td> </tr>
-    <tr> <td><a href="https://github.com/shuvoaftab/fiverr/blob/main/services/wordpress-responsive-website-creation-and-customization.md/">🐞 WordPress Troubleshooting and problems and issue fixing service </a></td> </tr>
-    <tr> <td><a href="https://github.com/shuvoaftab/fiverr/blob/main/services/wordpress-performance-and-security-optimization.md/">🐞 WordPress Performance and Security Optimization Service </a></td> </tr>
-    <tr> <td><a href="https://github.com/shuvoaftab/fiverr/blob/main/services/wordpress-responsive-website-creation-and-customization.md/">🌱 WordPress Responsive Website Creation and Customization Service </a></td> </tr>
+    <tr><td><b>1</b></td>
+     <td><a href="https://github.com/shuvoaftab/fiverr/blob/main/services/any-linux-server-issues.md/">🌱 Fix Any Linux Issues</a></td> </tr>
+    <tr><td><b>2</b></td>
+      <td><a href="https://github.com/shuvoaftab/fiverr/blob/main/services/NGINX-Apache-PHP-MySQL-MongoDB-JS-Python-Server-Issues.md/">🌱 NGINX, Apache, PHP, MySQL, MongoDB, NodeJS, ReactJS, Python Server Issues</a></td> </tr>
+    <tr><td><b>3</b></td>
+      <td><a href="https://github.com/shuvoaftab/fiverr/blob/main/services/cpanel-plesk-cwp-vestacp-LAMP-any-control-panel-issues.md/">🐞 cPanel, WHM, CWP, VestaCP, LAMP stack or any control panel issues</a></td> </tr>
+    <tr><td><b>4</b></td>
+      <td><a href="https://github.com/shuvoaftab/fiverr/blob/main/services/ecommerce-data-migration.md/">🌱 Ecommerce Data Migration Service </a></td> </tr>
+    <tr><td><b>5</b></td>
+      <td><a href="https://github.com/shuvoaftab/fiverr/blob/main/services/transfer-and-migration-of-websites-to-and-from-servers-and-domains.md/">🌱 Transfer and Migration Service of Websites to and from Servers and Domains </a></td> </tr>
+    <tr><td><b>6</b></td>
+      <td><a href="https://github.com/shuvoaftab/fiverr/blob/main/services/wordpress-responsive-website-creation-and-customization.md/">🐞 WordPress Troubleshooting and problems and issue fixing service </a></td> </tr>
+    <tr><td><b>7</b></td>
+      <td><a href="https://github.com/shuvoaftab/fiverr/blob/main/services/wordpress-performance-and-security-optimization.md/">🐞 WordPress Performance and Security Optimization Service </a></td> </tr>
+    <tr><td><b>8</b></td>
+      <td><a href="https://github.com/shuvoaftab/fiverr/blob/main/services/wordpress-responsive-website-creation-and-customization.md/">🌱 WordPress Responsive Website Creation and Customization Service </a></td> </tr>
 
   </tbody>
 </table>
+<hr>
 <!---##------------------------------------------  Focused Skills    ----------------------------------------------##--->
 ## Focused Skills
 ![Server Administration](https://img.shields.io/badge/-Server%20Administration-0a00b6?style=flat-square&logoColor=white&labelColor=00363a&logo=Angular+Universal)
