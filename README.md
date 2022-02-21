@@ -57,7 +57,7 @@
 <!--a href="https://forum.xda-developers.com/m/shuvoaftab.7111152/"><img src="https://img.shields.io/badge/-XDA-EA7100?style=flat&logoColor=white&labelColor=311b92&logo=XDA+Developers"/></a>
 <a href="#"><img src="https://img.shields.io/badge/-Ibrahim-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/-Ibrahim-1769FF?style=flat&logo=Behance&logoColor=white"/></a-->
-</!--p>
+<!--/p-->
 
 <hr>
 
