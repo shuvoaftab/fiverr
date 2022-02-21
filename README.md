@@ -90,18 +90,17 @@
   <thead align="center">
     <tr border: none;>
       <td><b>Services</b></td>
-      <td><b>Upwork</b></td>
-      <td><b>Fiverr</b></td>
-      <td><b>Forum</b></td>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td><a href="https://github.com/shuvoaftab/"><b>🟨 Magento1 to Magento2 Migration</b></a></td>
-      <td><a href="https://www.upwork.com/freelancers/~01fa5280996d3915be/"><b><img src="https://img.shields.io/badge/-Upwork-14a800?style=flat&logoColor=white&labelColor=ff1744&logo=upwork"/></b></a></td>
-      <td><a href="https://www.fiverr.com/shuvoaftab/"><b><img src="https://img.shields.io/badge/-Fiverr-1dbf73?style=flat&logoColor=white&labelColor=ff1744&logo=fiverr"/></b></a></td>
-      <td><a href="https://forum.ibrahimsharif.com/"><b><img src="https://img.shields.io/badge/-Forum-311b92?style=flat&logoColor=white&labelColor=ff1744&logo=foursquare"/></b></a></td>
-    </tr>
+    <tr> <td><a href="https://github.com/shuvoaftab/fiverr/blob/main/services/any-linux-server-issues.md/">🌱 Fix Any Linux Issues</a></td> </tr>
+    <tr> <td><a href="https://github.com/shuvoaftab/fiverr/blob/main/services/NGINX-Apache-PHP-MySQL-MongoDB-JS-Python-Server-Issues.md/">🌱 NGINX, Apache, PHP, MySQL, MongoDB, NodeJS, ReactJS, Python Server Issues</a></td> </tr>
+    <tr> <td><a href="https://github.com/shuvoaftab/fiverr/blob/main/services/cpanel-plesk-cwp-vestacp-LAMP-any-control-panel-issues.md/">🐞 cPanel, WHM, CWP, VestaCP, LAMP stack or any control panel issues</a></td> </tr>
+    <tr> <td><a href="https://github.com/shuvoaftab/fiverr/blob/main/services/ecommerce-data-migration.md/">🌱 Ecommerce Data Migration Service </a></td> </tr>
+    <tr> <td><a href="https://github.com/shuvoaftab/fiverr/blob/main/services/transfer-and-migration-of-websites-to-and-from-servers-and-domains.md/">🌱 Transfer and Migration Service of Websites to and from Servers and Domains </a></td> </tr>
+    <tr> <td><a href="https://github.com/shuvoaftab/fiverr/blob/main/services/wordpress-responsive-website-creation-and-customization.md/">🐞 WordPress Troubleshooting and problems and issue fixing service </a></td> </tr>
+    <tr> <td><a href="https://github.com/shuvoaftab/fiverr/blob/main/services/wordpress-performance-and-security-optimization.md/">🐞 WordPress Performance and Security Optimization Service </a></td> </tr>
+    <tr> <td><a href="https://github.com/shuvoaftab/fiverr/blob/main/services/wordpress-responsive-website-creation-and-customization.md/">🌱 WordPress Responsive Website Creation and Customization Service </a></td> </tr>
 
   </tbody>
 </table>
