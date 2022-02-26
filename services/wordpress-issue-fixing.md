@@ -11,6 +11,9 @@ Why this service is special:
 ⚡ Suggestions on improvements and alternatives
 ⚡ Post Delivery Support
 
+{ Please contact me about custom tasks & suitable package for you }
+WITHOUT MY CONFIRMATION DO NOT PLACE ORDER!
+
 Service regarding:
 ⮚ Investigate & fix problem
 ⮚ Troubleshooting Server Issues
@@ -19,30 +22,16 @@ Service regarding:
 ⮚ White Screen of Death (WSoD)
 ⮚ Internal Server Error
 ⮚ Error Establishing a Database Connection
-⮚ Connection Timed Out
-⮚ Unable to Upload Images
-⮚ Unable to Access the Admin Area
-⮚ Stuck in Maintenance Mode
-⮚ Missed Scheduled Post
-⮚ Failed to Auto-Update
-⮚ Experiencing Technical Difficulties
-⮚ Memory Exhausted Error
-⮚ File and Folder Permissions
-⮚ Failed To Load Resource
-⮚ Search Crawler Error
-⮚ Failed to Open Stream
+⮚ SEO
 ⮚ Email Server Problem
-⮚ MySQL, MariaDB, PostgreSQL Database problem
-⮚ Migration of Websites, Emails
-⮚ Malware Cleaning
 
 
 Scopes:
-❏ CentOS, Ubuntu
+❏ Migration of Websites, Emails
 ❏ cPanel, WHM, Plesk
 ❏ AWS, Google Cloud, SiteGround, Godaddy, Digital Ocean, VPS & Shared hosting
 ❏ Apache, Nginx, PHP, MySQL, Varnish, Litespeed
-❏ SSL, Firewall, Security 
+❏ SSL, Firewall, Security, Malware
 ❏ Disk, Inode, Memory
 ❏ 403,404,413,429,500,503,504,1000 Errors
 
