@@ -8,32 +8,30 @@ FAQ Section below has few important questions answered!!
 
 Why this service is special:
 ⚡ On time Delivery
-⚡ Suggestions on improvements and alternatives
 ⚡ Post Delivery Support
 
-{ Please contact me about custom tasks & suitable package for you }
 WITHOUT MY CONFIRMATION DO NOT PLACE ORDER!
 
 Service regarding:
-⮚ Investigate & fix problem
-⮚ Troubleshooting Server Issues
-⮚ DNS, SSL, Mixed Content
-⮚ Parse/ Syntax Error
-⮚ White Screen of Death (WSoD)
-⮚ Internal Server Error
-⮚ Error Establishing a Database Connection
-⮚ SEO
-⮚ Email Server Problem
+⮚ Server or Domain Migration: Shift to a new Server or to a new Domain.
 
+⮚ Data Migration: Shift to a new platform with only products, customers, orders data.
+
+⮚ Platform Migration: Move to a new Platform with data and redesign layouts and features.
+
+1. Woocommerce Data Migration.
+2. Magento Data Migration.
+3. Opencart Data Migration.
+4. Shopify Data Migration.
+5. Prestashop Data Migration.
+6. Custom Platform Data Migration.
 
 Scopes:
 ❏ Migration of Websites, Emails
 ❏ cPanel, WHM, Plesk
 ❏ AWS, Google Cloud, SiteGround, Godaddy, Digital Ocean, VPS & Shared hosting
-❏ Apache, Nginx, PHP, MySQL, Varnish, Litespeed
+❏ Apache, Nginx, PHP, MySQL
 ❏ SSL, Firewall, Security, Malware
-❏ Disk, Inode, Memory
-❏ 403,404,413,429,500,503,504,1000 Errors
 
 
 For Case Studies, Custom service details, portfolio check out :
